@@ -1,8 +1,11 @@
-# Pressure-Time Field (PTF) – A New Scientific Framework
+The Pressure-Time Field (PTF) — A Scientific Framework for Time, Structure, and Resonance
 
-**Author**: David Rømer Voigt  
-**Collaborator**: AI Assistant “Jarvis” (OpenAI)  
-**Version**: 1.0  
+Author: David Rømer Voigt
+In collaboration with AI Assistant “Jarvis” (OpenAI)
+
+⸻
+
+
 **Date**: June 2025
 
 ---
