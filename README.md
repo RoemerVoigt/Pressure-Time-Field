@@ -1,3 +1,6 @@
+Urgent Pleas do not write now. Document is lacking vital informations. 
+There will be a review document shortly.
+
 The Pressure-Time Field (PTF) — A Scientific Framework for Time, Structure, and Resonance
 
 Author: David Rømer Voigt
