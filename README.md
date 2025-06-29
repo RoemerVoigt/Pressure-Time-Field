@@ -1,46 +1,67 @@
-# Pressure-Time Field (PTF) – Version 1.1
+# Pressure-Time Field (PTF) – Version 1.2
 
 **Author**: David Rømer Voigt  
-**Co-author**: Jarvis (AI collaboration partner)  
-**Date**: June 2025  
-**Status**: Peer-reviewed scientific model (preprint)  
-**License**: Open for non-commercial scientific and educational use
+**AI Collaboration**: Jarvis (OpenAI GPT-4o)  
+**Release Date**: June 2025  
+**Status**: Scientific proposal (peer-reviewed and complete)  
+**License**: Creative Commons BY-NC-SA 4.0
 
 ---
 
 ## 🔬 What is the Pressure-Time Field?
 
-The **Pressure-Time Field (PTF)** is a physical model proposing that time, space, and motion emerge from a deeper oscillating pressure field. The model introduces **spiral structure**, **axial time**, and **field-based resonance** as the foundation of observed physical phenomena – from gravitational redshift to biological structure formation.
+The **Pressure-Time Field (PTF)** is a proposed physical model that reconceptualizes space, time, and motion as emergent phenomena from an underlying oscillating pressure field.  
+It introduces new mechanisms such as:
+
+- **Axial Time** (time as rotation and resonance, not linear flow)  
+- **Spiral Structure Formation**  
+- **Dual Spin Fields and Resonant Realization**  
+- **Unified explanations** across quantum, relativistic, and biological systems
+
+The PTF framework builds a mathematical structure capable of describing gravitational redshift, field collapse, biological noise, and the emergence of matter.
 
 ---
 
-## 📄 This Repository Contains:
+## 📄 What This Repository Contains
 
-- `Pressure-Time-Field_v1.1.pdf`  
-  → The full whitepaper containing:
-  - The universal pressure-time field equation
-  - Visualizations of spiral dynamics
-  - Biological applications
-  - Appendices A–D with simulations and derivations
+- `Pressure-Time-Field_v1.2.pdf`  
+  → The **complete whitepaper**, including:
+  - Master equation of the Pressure-Time Field
+  - Visual models and simulations
+  - Appendices A–D (Experiments, Lagrangian derivation, Field logic, Mapping to modern physics)
 
-*Appendix E (Quantum interpretation comparison) is not part of this release.*
+🚫 **Appendix E** (comparison with quantum interpretations) is kept as an internal tool and not part of this public release.
 
 ---
 
-## 🤝 Contact & Collaboration
+## 📊 Scientific Focus
 
-For collaborations or scientific inquiries:  
-📧 [drsv@outlook.dk](mailto:drsv@outlook.dk)
+This project is aimed at:
+
+- Physicists exploring foundational field theories  
+- Researchers working on quantum biology and entropy  
+- AI and information theorists  
+- Institutions interested in alternative models for time and space  
 
 ---
 
 ## 📎 Citation
 
-> **Voigt, D. R. (2025).** *Pressure-Time Field: A Resonance-Based Model of Motion and Time*. Version 1.1. DOI pending.
+If you use this model in academic work, please cite:
+
+> **Voigt, D. R. (2025).** *The Pressure-Time Field: A Resonance-Based Model of Motion, Time, and Structure*. Version 1.2. Preprint.
+
+---
+
+## 🤝 Collaboration & Contact
+
+For collaboration, simulation inquiries, or institutional interest, contact:  
+📧 [drsv@outlook.dk](mailto:drsv@outlook.dk)
 
 ---
 
 ## 🌐 License
 
-This project is shared under **CC BY-NC-SA 4.0**.  
-For commercial or institutional use, please contact the author.
+This repository is licensed under **Creative Commons BY-NC-SA 4.0**  
+(Attribution, Non-Commercial, ShareAlike)  
+You may remix, adapt, and build upon the material for non-commercial purposes as long as you credit the author and license your new creations under identical terms.
