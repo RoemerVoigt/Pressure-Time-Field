@@ -1,4 +1,4 @@
-# Pressure-Time Field (PTF) – Version 1.2
+# Pressure-Time Field (PTF) – Version 1.3
 
 **Author**: David Rømer Voigt  
 **AI Collaboration**: Jarvis (OpenAI GPT-4o)  
