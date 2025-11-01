@@ -11,6 +11,10 @@
 [![DOI](https://zenodo.org/badge/1009878007.svg)](https://doi.org/10.5281/zenodo.17504166)
 
 ---
+### 📚 How to Cite
+If you use this dataset or framework, please cite:
+> Voigt, D.R., & Jarvis (AI). *Pressure–Time Field Investigation Pack – 3I/ATLAS (Version 3.3)*. GitHub, 2025.  
+DOI: [10.5281/zenodo.17504166] https://doi.org/10.5281/zenodo.17504166
 
 ## 📖 Abstract
 
